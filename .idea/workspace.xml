@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="90600b12-7a8b-4c28-99dc-fbdc1aef412e" name="Changes" comment="Add landing page structure, styles, and interactivity for Integridade Sergipe Consultoria&#10;&#10;- Add `index.html` featuring hero, program, methodology, plans, about, and modal sections.&#10;- Create `styles.css` with custom styling, variables, animations, and responsive layout.&#10;- Add `script.js` to manage mobile navigation, legal modal dialogs, and scroll reveal effects.&#10;- Include brand assets, favicon, web manifest, and `.gitignore` file." />
+    <list default="true" id="90600b12-7a8b-4c28-99dc-fbdc1aef412e" name="Changes" comment="Add landing page structure, styles, and interactivity for Integridade Sergipe Consultoria&#10;&#10;- Add `index.html` featuring hero, program, methodology, plans, about, and modal sections.&#10;- Create `styles.css` with custom styling, variables, animations, and responsive layout.&#10;- Add `script.js` to manage mobile navigation, legal modal dialogs, and scroll reveal effects.&#10;- Include brand assets, favicon, web manifest, and `.gitignore` file.">
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />

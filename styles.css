@@ -584,7 +584,7 @@ ul, ol {
 }
 
 /* =====================================================================
-   Metodologia em 5 Fases (#metodologia)
+   Metodologia em 4 Fases (#metodologia)
    ===================================================================== */
 .section-methodology {
   background-color: var(--color-white);
@@ -608,7 +608,7 @@ ul, ol {
 
 @media (min-width: 768px) {
   .fases-timeline {
-    grid-template-columns: repeat(5, 1fr);
+    grid-template-columns: repeat(4, 1fr);
     gap: 1rem;
   }
 }
