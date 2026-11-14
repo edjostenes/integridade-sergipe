@@ -1,0 +1,14 @@
+{
+  "name": "Integridade Sergipe Consultoria",
+  "short_name": "Integridade Sergipe",
+  "lang": "pt-BR",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#091e3c",
+  "background_color": "#f7f4ec",
+  "icons": [{
+    "src": "/logo-512.png",
+    "sizes": "455x512",
+    "type": "image/png"
+  }]
+}
