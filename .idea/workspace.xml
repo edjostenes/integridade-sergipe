@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="90600b12-7a8b-4c28-99dc-fbdc1aef412e" name="Changes" comment="Improve image responsiveness and update hero emblem styling&#10;&#10;- Add global `styles.css` rules for `img` elements to ensure proper scaling and object-fit behavior.&#10;- Update `.hero-emblem` properties and responsive width constraints across media queries.">
+    <list default="true" id="90600b12-7a8b-4c28-99dc-fbdc1aef412e" name="Changes" comment="Pivot landing page from investment plans to certificate issuance and services&#10;&#10;- Update `index.html` navigation and hero section to focus on compliance certificate issuance and services.&#10;- Replace tiered pricing plans with a single service card for specialized integrity certification under Lei 8.866/2021.&#10;- Add a dedicated contact information section and update call-to-action copy.">
+      <change afterPath="$PROJECT_DIR$/sitemap.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -76,6 +77,7 @@
     <MESSAGE value="Add landing page structure, styles, and interactivity for Integridade Sergipe Consultoria&#10;&#10;- Add `index.html` featuring hero, program, methodology, plans, about, and modal sections.&#10;- Create `styles.css` with custom styling, variables, animations, and responsive layout.&#10;- Add `script.js` to manage mobile navigation, legal modal dialogs, and scroll reveal effects.&#10;- Include brand assets, favicon, web manifest, and `.gitignore` file." />
     <MESSAGE value="Reduce methodology from 5 to 4 phases and update plan details&#10;&#10;- Update `index.html` to reduce methodology phases from 5 to 4 and remove training features from plans.&#10;- Adjust `styles.css` grid template columns for the methodology timeline to 4 columns." />
     <MESSAGE value="Improve image responsiveness and update hero emblem styling&#10;&#10;- Add global `styles.css` rules for `img` elements to ensure proper scaling and object-fit behavior.&#10;- Update `.hero-emblem` properties and responsive width constraints across media queries." />
-    <option name="LAST_COMMIT_MESSAGE" value="Improve image responsiveness and update hero emblem styling&#10;&#10;- Add global `styles.css` rules for `img` elements to ensure proper scaling and object-fit behavior.&#10;- Update `.hero-emblem` properties and responsive width constraints across media queries." />
+    <MESSAGE value="Pivot landing page from investment plans to certificate issuance and services&#10;&#10;- Update `index.html` navigation and hero section to focus on compliance certificate issuance and services.&#10;- Replace tiered pricing plans with a single service card for specialized integrity certification under Lei 8.866/2021.&#10;- Add a dedicated contact information section and update call-to-action copy." />
+    <option name="LAST_COMMIT_MESSAGE" value="Pivot landing page from investment plans to certificate issuance and services&#10;&#10;- Update `index.html` navigation and hero section to focus on compliance certificate issuance and services.&#10;- Replace tiered pricing plans with a single service card for specialized integrity certification under Lei 8.866/2021.&#10;- Add a dedicated contact information section and update call-to-action copy." />
   </component>
 </project>
