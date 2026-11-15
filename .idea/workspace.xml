@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="90600b12-7a8b-4c28-99dc-fbdc1aef412e" name="Changes" comment="Add landing page structure, styles, and interactivity for Integridade Sergipe Consultoria&#10;&#10;- Add `index.html` featuring hero, program, methodology, plans, about, and modal sections.&#10;- Create `styles.css` with custom styling, variables, animations, and responsive layout.&#10;- Add `script.js` to manage mobile navigation, legal modal dialogs, and scroll reveal effects.&#10;- Include brand assets, favicon, web manifest, and `.gitignore` file.">
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    <list default="true" id="90600b12-7a8b-4c28-99dc-fbdc1aef412e" name="Changes" comment="Reduce methodology from 5 to 4 phases and update plan details&#10;&#10;- Update `index.html` to reduce methodology phases from 5 to 4 and remove training features from plans.&#10;- Adjust `styles.css` grid template columns for the methodology timeline to 4 columns.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CNAME" beforeDir="false" afterPath="$PROJECT_DIR$/CNAME" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,6 +74,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add landing page structure, styles, and interactivity for Integridade Sergipe Consultoria&#10;&#10;- Add `index.html` featuring hero, program, methodology, plans, about, and modal sections.&#10;- Create `styles.css` with custom styling, variables, animations, and responsive layout.&#10;- Add `script.js` to manage mobile navigation, legal modal dialogs, and scroll reveal effects.&#10;- Include brand assets, favicon, web manifest, and `.gitignore` file." />
-    <option name="LAST_COMMIT_MESSAGE" value="Add landing page structure, styles, and interactivity for Integridade Sergipe Consultoria&#10;&#10;- Add `index.html` featuring hero, program, methodology, plans, about, and modal sections.&#10;- Create `styles.css` with custom styling, variables, animations, and responsive layout.&#10;- Add `script.js` to manage mobile navigation, legal modal dialogs, and scroll reveal effects.&#10;- Include brand assets, favicon, web manifest, and `.gitignore` file." />
+    <MESSAGE value="Reduce methodology from 5 to 4 phases and update plan details&#10;&#10;- Update `index.html` to reduce methodology phases from 5 to 4 and remove training features from plans.&#10;- Adjust `styles.css` grid template columns for the methodology timeline to 4 columns." />
+    <option name="LAST_COMMIT_MESSAGE" value="Reduce methodology from 5 to 4 phases and update plan details&#10;&#10;- Update `index.html` to reduce methodology phases from 5 to 4 and remove training features from plans.&#10;- Adjust `styles.css` grid template columns for the methodology timeline to 4 columns." />
   </component>
 </project>
